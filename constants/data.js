@@ -10,7 +10,7 @@ const userData = {
       {
         title: "Google CodeU Program",
         link: "google.com",
-        imgUrl: "/tmk.jpg",
+        imgUrl: "./public/controller.svg",
       },
     ],
     experience: [

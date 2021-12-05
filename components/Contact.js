@@ -14,10 +14,10 @@ export default function Contact() {
           <div className="md:ml-4">
             <header className="dark:text-gray-200 text-gray-700">
               <h1 className=" font-semibold text-2xl">
-                Get in touch, let's talk.
+                Get in touch, let us talk.
               </h1>
               <p className="dark:text-gray-200 text-gray-700 text-base  mt-2">
-                Fill in the details and I'll get back to you as soon as I can.
+                Fill in the details and I will get back to you as soon as I can.
               </p>
             </header>
             <div className="icons-container inline-flex flex-col my-20">
